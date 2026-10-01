@@ -1,0 +1,14 @@
+# ОС та редактори
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# C# / ASP.NET Core
+bin/
+obj/
+*.user
+
+# Секрети
+.env
+appsettings.Development.json
